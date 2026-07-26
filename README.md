@@ -33,6 +33,10 @@ practical and innovative technology solutions.
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,php,cs)](https://skillicons.dev)
 
+### 🤖 Machine Learning & AI
+
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn)](https://skillicons.dev)
+
 
 ### 🔧 Tools & Platforms
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,gcp)](https://skillicons.dev)
