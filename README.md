@@ -1,16 +1,76 @@
-## Hi there 👋
+# 👋 Hi, I'm Shreya M D
 
-<!--
-**ShreyamdGatty/ShreyamdGatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Developer 
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical projects, learning new technologies,
+and turning ideas into useful software solutions.
+
+---
+
+## 👩‍💻 About Me
+
+I'm a passionate Software Developer interested in building
+practical and innovative technology solutions.
+
+- 💻 Interested in Software & Full-Stack Development
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🐍 Working with Python and JavaScript
+- 🌐 Building Web Applications
+- ☁️ Exploring Cloud Technologies
+- 🚀 Developing real-world projects
+- 📚 Always learning and improving my technical skills
+
+> 💡 Learning, building, and turning ideas into useful solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+- MachineLearning
+- python
+- HTML
+- CSS
+- JavaScript
+- C#
+
+
+
+### 🔧 Tools & Platforms
+
+- Git
+- GitHub
+- VS Code
+- Android Studio
+- visual studio
+
+---
+ 
+## 🏆 Goals
+
+- 🚀 Build more real-world projects
+- 🤖 Develop practical AI/ML applications
+- 🌐 Improve Full-Stack Development skills
+- ☁️ Strengthen Cloud Computing knowledge
+- 💼 Grow as a Software Developer
+- 📚 Keep learning new technologies
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn  
+🌐 Portfolio  
+📧 Email
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+If you find my projects useful, consider giving them a ⭐
+
+**Happy Coding! 🚀**
+
