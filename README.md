@@ -32,15 +32,10 @@ practical and innovative technology solutions.
 
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,php,MachineLearning)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn)](https://skillicons.dev)
+
 
 ### 🔧 Tools & Platforms
-
-- Git
-- GitHub
-- VS Code
-- Android Studio
-- visual studio
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,gcp)](https://skillicons.dev)
 
 ---
  
