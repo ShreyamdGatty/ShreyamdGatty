@@ -31,7 +31,7 @@ practical and innovative technology solutions.
 ### 💻 Programming Languages
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,php,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,php,csharp)](https://skillicons.dev)
 
 
 ### 🔧 Tools & Platforms
