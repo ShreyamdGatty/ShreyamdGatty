@@ -52,7 +52,7 @@ practical and innovative technology solutions.
 
 ## 📫 Connect With Me
 
-💼 LinkedIn  
+💼 [LinkedIn](https://www.linkedin.com/in/shreya-m-d-367992313)
 🌐 Portfolio  
 📧 Email
 
